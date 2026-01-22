@@ -4,3 +4,4 @@
 
 sekcja 1
 
+zmiana w gałęzi test
