@@ -1,1 +1,6 @@
-#git zadanie
+\#git zadanie
+
+
+
+sekcja 1
+
